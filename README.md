@@ -23,7 +23,7 @@ It is a GUI in which by entering URL from youtube you can directly download vide
 <img src="Screenshot_yd3.png">
 
 ## Note
-- youtube_dl library needs python 3.6 as Project Interpreter.
+- youtube_dl library needs Python 3.6 as Project Interpreter (not Python 3.7).
 
 
 ## 👉Do Follow and ⭐the repository if you find it helpful.
