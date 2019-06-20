@@ -10,3 +10,20 @@ It is a GUI in which by entering URL from youtube you can directly download vide
 
 
 ## Explanation Through Screenshots
+### --> Main Screen
+
+<img src="Screenshot_yd1.png">
+
+### --> Enter URL
+
+<img src="Screenshot_yd2.png">
+
+### --> Enter Path and Download
+
+<img src="Screenshot_yd3.png">
+
+## Note
+- youtube_dl library needs python 3.6 as Project Interpreter.
+
+
+## 👉Do Follow and ⭐the repository if you find it helpful.
